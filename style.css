@@ -37,9 +37,6 @@ header {
     align-items: center;
     gap: 10px;
 }
-.logo:hover{
-    background-color: #ffffff33;
-}
 
 .logo-icon{
     width: 40px;
